@@ -1,0 +1,11 @@
+OTSU:
+Dice: 0.1170, Jaccard: 0.0640
+
+Sauvola k=0.005 -> Dice: 0.0858, Jaccard: 0.0457
+Sauvola k=0.01 -> Dice: 0.0855, Jaccard: 0.0455
+Sauvola k=0.05 -> Dice: 0.0829, Jaccard: 0.0441
+Sauvola k=0.1 -> Dice: 0.0801, Jaccard: 0.0425
+Sauvola k=0.2 -> Dice: 0.0756, Jaccard: 0.0400
+Sauvola k=0.3 -> Dice: 0.0725, Jaccard: 0.0383
+
+Best k: 0.005 (Dice = 0.0858)
